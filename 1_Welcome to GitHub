@@ -1,2 +1,5 @@
+# Take user input
 name = input("Who are you??? ")
+
+# Output message
 print(name + " ,welcome to GitHub")
